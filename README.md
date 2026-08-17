@@ -2,6 +2,8 @@
 
 > An interactive **Python Dash** dashboard for exploring peatland CO₂ emissions across Groningen and simulating potential reductions from water-level and infiltration interventions.
 
+![Dashboard Preview](assets/dashboard_preview.png)
+
 ## 🌱 Overview
 
 Peat meadow areas release CO₂ when artificially lowered groundwater levels expose peat soils to oxygen, accelerating peat oxidation and soil subsidence. The Province of Groningen aims to reduce emissions from these areas by **60 kilotons of CO₂ per year by 2030**, while maintaining viable agricultural use.
