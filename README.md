@@ -2,7 +2,7 @@
 
 > An interactive **Python Dash** dashboard for exploring peatland CO₂ emissions across Groningen and simulating potential reductions from water-level and infiltration interventions.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 🌱 Overview
 
